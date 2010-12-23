@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/MainBGHUD"
+	"$translucent" 1
+}

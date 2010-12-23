@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "OCDM_HUDN/Smallorange"
+	"$nolod" 1
+	"$translucent" 1
+}

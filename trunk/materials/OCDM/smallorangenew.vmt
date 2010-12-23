@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "OCDM/smallorangenew"
+	"$translucent" 1
+                "$nolod" 1 
+}

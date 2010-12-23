@@ -1,0 +1,9 @@
+ VertexLitGeneric 
+{ 
+   "$basetexture"   "models\weapons\\main\main" 
+    
+    
+"$bumpmap"     "models\weapons\main\normal"
+
+
+}

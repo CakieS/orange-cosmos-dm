@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gui/BlueArmorBar"
+	"$translucent" 1
+}
