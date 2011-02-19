@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Arcade Machines/Mortal Kombat 2/Artwork-Marquee-Upper"
+	
+	"$SelfIllum" "1"
+	"$SelfIllumMask" "Arcade Machines/Shared/Special/Screen-SelfIllum"
+}

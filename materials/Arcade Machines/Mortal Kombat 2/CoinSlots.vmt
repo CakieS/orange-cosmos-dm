@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Arcade Machines/Mortal Kombat 2/CoinSlots+SelfIllum"
+
+	"$SelfIllum" "1"
+
+	"$BumpMap" "Arcade Machines/Mortal Kombat 2/Special/CoinSlots-NormalMap+Reflect"
+	"$NormalMapAlphaEnvMapMask" "1"
+
+}

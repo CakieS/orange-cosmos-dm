@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Arcade Machines/Mortal Kombat 2/Joystick&Buttons+Phong"
+
+	"$Phong" "1"
+	"$PhongExponent" "33"
+	"$phongboost" "7.5"
+	"$phongfresnelranges"	"[.05 .5 1]"
+
+	"$BaseMapAlphaPhongMask" "1"
+}

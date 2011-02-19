@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Arcade Machines/Mortal Kombat 2/ControlPad"
+
+	"$EnvMap" "Env_CubeMap"
+	"$EnvMapMask" "Arcade Machines/Mortal Kombat 2/Special/ControlPad-Reflect"
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Arcade Machines/Mortal Kombat 2/SpeakerScrewHead+Translucent"
+
+	"$BumpMap" "Arcade Machines/Mortal Kombat 2/Special/SpeakerScrewHead-NormalMap"
+
+	"$Translucent" "1"
+}

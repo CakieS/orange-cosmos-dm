@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Arcade Machines/Mortal Kombat 2/SpeakerShadow+Translucent"
+
+	"$translucent" "1"
+}
