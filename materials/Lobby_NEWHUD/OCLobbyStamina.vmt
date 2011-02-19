@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Lobby_NEWHUD/OCLobbyStamina"
+	"$translucent" 1
+}
