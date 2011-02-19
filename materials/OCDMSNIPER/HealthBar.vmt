@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "OCDMSNIPER/HealthBar"
+	"$translucent" 1
+}
