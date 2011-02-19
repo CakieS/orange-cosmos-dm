@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "OCDM_Zombie_Fix/OCDM_Zombie_HealthArmor"
+	"$translucent" 1
+}
