@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "OCDMSNIPER/SniperWeaponHud"
+	"$translucent" 1
+}
