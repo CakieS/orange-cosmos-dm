@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Orange Cosmos DM Content Pack"
+	"version"	"1.0"
+	"up_date"	"19th Febary"
+	"author_name"	"Crap-Head"
+	"author_email"	"N/A"
+	"author_url"	"www.orangecosmos.net"
+	"info"		"Content for OCDM"
+	"override"	"0"
+}
