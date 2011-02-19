@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\AR10\bipod"
+	"$bumpmap" "models\weapons\v_models\AR10\bipod norm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
