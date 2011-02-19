@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	"$baseTexture" "models\weapons\v_models\shib_ump45\Map2"
-	"$envmapmask" "models/weapons/v_models/shib_ump45/Map2"
-	"$bumpmap" "models\weapons\v_models\shib_ump45\Map2_norm"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
