@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "OCDM_NEWHUD/BackBar"
+	"$translucent" 1
+}

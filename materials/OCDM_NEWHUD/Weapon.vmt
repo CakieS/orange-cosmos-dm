@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "OCDM_NEWHUD/Weapon"
+	"$translucent" 1
+}
