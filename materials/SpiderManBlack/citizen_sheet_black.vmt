@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "SpiderManBlack/citizen_sheet_black"
+	"$envmapmask" "SpiderManBlack/citizen_sheet_black_mask"
+//	"$bumpmap" "SpiderManBlack/citizen_sheet_black_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.45 .45 .45]"
+	"$halflambert" 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "SpiderManBlack/eric_facemap_black"
+	"$envmapmask" "SpiderManBlack/eric_facemap_black_mask"
+	"$envmap" "env_cubemap"
+	"$halflambert" 1
+}
