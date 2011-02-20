@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/cop/aviators"	
+	"$envmap" "models/cop/aviators-env"
+
+	
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/cop/cophead2"
+	//"$bumpmap" "models/security/secguardotherbody-n"
+	
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/cop/bucklebadgetrga"
+	"$bumpmap" "models/cop/bucklebadgetrga-n"
+	"$envmap" "models/cop/aviators-env"
+	
+}
