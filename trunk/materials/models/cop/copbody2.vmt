@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/cop/copbody2"
+	"$bumpmap" "models/cop/copbody3-n"
+	"$envmap" "env_cubemap"	
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapsaturation" "0"
+	
+}
