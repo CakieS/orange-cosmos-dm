@@ -1,9 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "models\weapons\v_models\nemiawm\nawm"
-	"$bumpmap" "models\weapons\v_models\nemiawm\nawm_ref"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-
-}
-
