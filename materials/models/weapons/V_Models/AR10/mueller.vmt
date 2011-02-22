@@ -1,7 +1,0 @@
- VertexLitGeneric 
-{ 
-   "$basetexture"   "models\weapons\v_models\AR10\mueller" 
-	"$bumpmap" "models\weapons\v_models\AR10\mueller_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
