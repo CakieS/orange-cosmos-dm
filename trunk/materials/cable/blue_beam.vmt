@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture"		"cable\blue_beam"
-	"$MinLight"		0
-	"$MaxLight"		1
-	"$translucent"	1
-}
